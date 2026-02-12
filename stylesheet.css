@@ -1,0 +1,13 @@
+head {
+  text-align: center;
+}
+a {
+  color: black;
+}
+body {
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  vertical-align: middle;
+}
